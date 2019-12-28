@@ -1,0 +1,3 @@
+this file was also added to featur1
+
+another change in featur1
